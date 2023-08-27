@@ -17,6 +17,7 @@
  * Comments should be present at the beginning of each procedure and class.
  * Great to have comments before crucial code sections within the procedure.
  */
+
 document.addEventListener("DOMContentLoaded", navBar, false);
 document.addEventListener("DOMContentLoaded", addActiveSection, false);
 document.addEventListener("DOMContentLoaded", setActiveSection, false);
